@@ -13,5 +13,8 @@ To run this project properly, follow these steps:
 3. Cd to the directory where the server file is (the repository)
 4. Type "python3 webserver.py" to run the server
 5. Access the server through the browser by entering http://localhost:12000/{filename.ext}
+6. To test this with the example file, type http://localhost:12000/index.html
+
+
 
 
